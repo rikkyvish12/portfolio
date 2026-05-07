@@ -2,7 +2,7 @@ import React, { useLayoutEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { FadeIn } from '../components/FadeIn';
 import gsap from 'gsap';
-import heroVideo from '../assets/Smiling_with_zoom_out_202605080148.mp4';
+import heroVideo from '../assets/just_make_simple_smile_202605080203.mp4';
 
 export const HeroSection = () => {
   const containerRef = useRef<HTMLDivElement>(null);
